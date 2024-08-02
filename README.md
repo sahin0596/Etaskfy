@@ -1,2 +1,2 @@
 # Etaskfy
-DevelopmentSahinEstaskfy
+ESTAKFY
